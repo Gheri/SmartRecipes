@@ -1,0 +1,33 @@
+[
+    {
+      "postcode": "421001",
+      "recipe": "Paneer Tika",
+      "delivery": "Wednesday 1AM - 7PM"
+    },
+    {
+      "postcode": "421002",
+      "recipe": "Masala Tika",
+      "delivery": "Thursday 7AM - 5PM"
+    },
+    {
+      "postcode": "421005",
+      "recipe": "Paneer Tika",
+      "delivery": "Thursday 12AM - 12PM"
+    },
+    {
+      "postcode": "421005",
+      "recipe": "Masala Tika",
+      "delivery": "Saturday 5AM - 8PM"
+    },
+    {
+      "postcode": "421005",
+      "recipe": "Paneer Mushroom",
+      "delivery": "Wednesday 7AM - 5PM"
+    },
+    {
+        "postcode": "421005",
+        "recipe": "Mushroom Plate",
+        "delivery": "Wednesday 12AM - 5PM"
+      }
+  ]
+  

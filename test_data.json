@@ -1,0 +1,58 @@
+[
+    {
+      "postcode": "10001",
+      "recipe": "Creamy Dill Chicken",
+      "delivery": "Wednesday 10AM - 7PM"
+    },
+    {
+        "postcode": "10001",
+        "recipe": "Potato Pie",
+        "delivery": "Wednesday 11AM - 6PM"
+    },
+    {
+      "postcode": "10001",
+      "recipe": "Mushroom Pie",
+      "delivery": "Wednesday 11AM - 6PM"
+  },
+    {
+      "postcode": "10002",
+      "recipe": "Veggie Pie",
+      "delivery": "Wednesday 11AM - 6PM"
+  },
+    {
+      "postcode": "10002",
+      "recipe": "Chicken Pizza",
+      "delivery": "Thursday 10AM - 5PM"
+    },
+    {
+      "postcode": "10002",
+      "recipe": "Mexican Pizza",
+      "delivery": "Thursday 7AM - 9PM"
+    },
+    {
+      "postcode": "10002",
+      "recipe": "Cherry Balsamic Pork Chops",
+      "delivery": "Saturday 1AM - 8PM"
+    },
+    {
+      "postcode": "10003",
+      "recipe": "Hot Honey Barbecue Chicken Legs",
+      "delivery": "Wednesday 7AM - 5PM"
+    },
+    {
+      "postcode": "10004",
+      "recipe": "Tex-Mex Barbecue Chicken",
+      "delivery": "Friday 8AM - 7PM"
+    },
+    {
+      "postcode": "10005",
+      "recipe": "Tex-Mex Barbecue Chicken",
+      "delivery": "Friday 8AM - 7PM"
+    },
+    {
+      "postcode": "10004",
+      "recipe": "Mexican Pizza",
+      "delivery": "Friday 8AM - 7PM"
+    }
+  ]
+  
